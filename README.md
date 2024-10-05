@@ -4,5 +4,5 @@
 
 ## 💼 Projects
 
-* [**Technical Blob**](https://mattdepaolis.github.io/blog/)): Technical blog about large language models, RAG systems, and agentic workflows.
+* [**Technical Blob**](https://mattdepaolis.github.io/blog/): Technical blog about large language models, RAG systems, and agentic workflows.
 * [**LLM Datasets**](https://github.com/llmat/llm-datasets): Curated list of high-quality datasets for LLM fine-tuning.
