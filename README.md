@@ -6,4 +6,4 @@
 
 * [**Technical Blog**](https://mattdepaolis.github.io/blog/): Technical blog about large language models, RAG systems, and agentic workflows.
 * [**LLM Datasets**](https://github.com/mattdepaolis/llm-datasets): Curated list of high-quality datasets for LLM fine-tuning.
-* [**LLM Evaluation Framework**](https://github.com/mattdepaolis/llm-evaluation): LLM Evaluation Framework designed to facilitate reproducible and extensible benchmarking
+* [**LLM Evaluation Framework**](https://github.com/mattdepaolis/llm-evaluation): LLM Evaluation Framework designed to facilitate reproducible and extensible benchmarking.
