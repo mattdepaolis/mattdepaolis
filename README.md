@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+an+AI+Engineer;Working+at+Yarowa)](https://git.io/typing-svg)
 
-## y Blog
+## My Blog
 * [**Technical Blog**](https://mattdepaolis.github.io/blog/): Technical blog about large language models, RAG systems, and agentic workflows.
 
 ## Current Projects
