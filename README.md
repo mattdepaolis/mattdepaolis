@@ -10,4 +10,4 @@
 * [**LLM Evaluation Framework**](https://github.com/mattdepaolis/llm-evaluation): LLM Evaluation Framework designed to facilitate reproducible and extensible benchmarking.
 * [**NeMo-Evaluator Orchestrator**](https://github.com/mattdepaolis/NeMo-Evaluator-Orchestrator): Evaluating LLMs across 336+ NVIDIA benchmarks with ease.
 * [**LLM Evaluator**](https://github.com/mattdepaolis/llm-evaluation): LLM evaluation framework to mimic the discontinued Huggingface Open LLM Leaderboard
-* [**Syntetic Invoice Generator**](https://github.com/mattdepaolis/synthetic_invoice_generator): Generate synthetic garage invoice data for model training purposes. 
+* [**Synthetic Invoice Generator**](https://github.com/mattdepaolis/synthetic_invoice_generator): Generate synthetic garage invoice data for model training purposes. 
