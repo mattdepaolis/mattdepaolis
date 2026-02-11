@@ -8,6 +8,6 @@
 ## Current Projects
 * [**LLM Datasets**](https://github.com/mattdepaolis/llm-datasets): Curated list of high-quality datasets for LLM fine-tuning.
 * [**LLM Evaluation Framework**](https://github.com/mattdepaolis/llm-evaluation): LLM Evaluation Framework designed to facilitate reproducible and extensible benchmarking.
-* [** NeMo-Evaluator Orchestrator**](https://github.com/mattdepaolis/NeMo-Evaluator-Orchestrator): A comprehensive orchestration tool for evaluating LLMs across 336+ NVIDIA benchmarks with ease.
+* [** NeMo-Evaluator Orchestrator**](https://github.com/mattdepaolis/NeMo-Evaluator-Orchestrator): Evaluating LLMs across 336+ NVIDIA benchmarks with ease.
 * [**LLM Evaluator**](https://github.com/mattdepaolis/llm-evaluation): LLM evaluation framework to mimic the discontinued Huggingface Open LLM Leaderboard
-* [**Syntetic Invoice Generator **](https://github.com/mattdepaolis/synthetic_invoice_generator): Streamlit application to generate synthetic garage invoice data for model training purposes. 
+* [**Syntetic Invoice Generator **](https://github.com/mattdepaolis/synthetic_invoice_generator): Generate synthetic garage invoice data for model training purposes. 
